@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm maabjamal</h1>
+<h1 align="center">Hi 👋, I'm maab jamal</h1>
 <!-- <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2> -->
 
 ###
@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif"](https://www.bing.com/th/id/OGC.e980c1173022b1e27482699556c1afce?pid=1.7&rurl=https%3a%2f%2fmedia1.giphy.com%2fmedia%2fSpopD7IQN2gK3qN4jS%2fgiphy.gif&ehk=A83RNo4v9nn1DOg9RVQ%2fvFd6o750sXZq%2bsFQFgBx9EY%3d)  />
 
 ###
 
